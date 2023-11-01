@@ -1,0 +1,23 @@
+Sandbox_FR = {
+	Sandbox_TrueCrawl = "True Crawl",
+	Sandbox_TrueCrawl_ZombieRadius = "Rayon des zombies",
+	Sandbox_TrueCrawl_ZombieRadius_tooltip = "Cette valeur contrôle le rayon de vue des zombies lorsque le joueur rampe. Cela va de 1 (extrêmement prêt) à 20 (extrêmement loin). La valeur par défaut est 5 (rayon moyen). Ma recommandation est de garder entre 5 et 10 pour avoir un gameplay plus immersif.",
+
+	Sandbox_TrueCrawl_StealhModeEnable = "Mode furtif",
+	Sandbox_TrueCrawl_StealhModeEnable_tooltip = "Active ou désactive le mode furtif. S'il est désactivé, seul le système de furtivité du jeu de base sera utilisé. [La valeur par défaut est Vrai].",
+
+	Sandbox_TrueCrawl_MoodleEnable = "Indicateur de furtivité (Moodle)",
+	Sandbox_TrueCrawl_MoodleEnable_tooltip = "Active ou désactive l'indicateur de furtivité (Moodle). (Fonctionne UNIQUEMENT si le mode furtif est activé!) [La valeur par défaut est Vrai].",
+
+	Sandbox_TrueCrawl_CrawlUnderVehiclesEnable = "Ramper sous les véhicules",
+	Sandbox_TrueCrawl_CrawlUnderVehiclesEnable_tooltip = "Active ou désactive la possibilité de ramper sous les véhicules. (VOUS DEVEZ RAMPER!) [La valeur par défaut est Vrai, la touche par défaut est Shift].",
+	
+	Sandbox_TrueCrawl_RealisticEndurance = "Endurance réaliste",
+	Sandbox_TrueCrawl_RealisticEndurance_tooltip = "Active ou désactive le mode Endurance réaliste. Ce mode améliore l'immersion en jeu, en limitant la la distance durant laquelle vous pouvez ramper. [La valeur par défaut est Vrai].",
+
+	Sandbox_TrueCrawl_CancelCrawlWhenSpotted = "Annuler le mode Ramper une fois repéré",
+	Sandbox_TrueCrawl_CancelCrawlWhenSpotted_tooltip = "Désactivez automatiquement la pose rampante lorsque vous êtes repéré par des zombies. [La valeur par défaut est Faux].",
+	
+	Sandbox_TrueCrawl_StealhModeServer = "Activer le mode serveur",
+	Sandbox_TrueCrawl_StealhModeServer_tooltip = "Utilisez cette option uniquement si vous hébergez un serveur local ou dédié. (Pour éviter les problèmes). [La valeur par défaut est Faux].",
+}
